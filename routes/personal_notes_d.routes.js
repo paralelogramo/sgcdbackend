@@ -8,7 +8,7 @@ import {
     getAllPersonalNotesDirector,
     getPersonalNoteDirector,
     updatePersonalNoteDirector
-} from "../controllers/personal_notes.controller.js";
+} from "../controllers/personal_notes_d.controller.js";
 
 
 const router = Router();
